@@ -15,6 +15,7 @@
   "author": "castromaciel <castromaciel00@gmail.com>",
   "license": "ISC",
   "devDependencies": {
+    "@types/cors": "^2.8.13",
     "@types/express": "^4.17.17",
     "@types/node": "^18.11.19",
     "@typescript-eslint/eslint-plugin": "^5.51.0",
