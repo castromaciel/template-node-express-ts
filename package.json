@@ -8,8 +8,7 @@
     "tsc:watch": "tsc --watch",
     "start": "tsc && node dist/app.js",
     "dev": "tsc && nodemon dist/app.js",
-    "format": "eslint src/**/*.ts --fix",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format": "eslint src/**/*.ts --fix"
   },
   "keywords": [],
   "author": "castromaciel <castromaciel00@gmail.com>",
