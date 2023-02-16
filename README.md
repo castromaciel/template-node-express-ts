@@ -71,8 +71,8 @@ template-node-express-ts
 └── src
     ├── controllers
     ├── middlewares
-        ├── server.ts
     ├── models
+        ├── server.ts
     ├── routes
 ├── .env.example
 ├── .eslintignore
